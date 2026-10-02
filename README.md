@@ -1,1 +1,1 @@
-# Exam-Hall-Sitting-Arrangement-System
+# Sitting_arrangement_system

@@ -1,0 +1,6 @@
+
+
+http://localhost:80/hall_sit/start.php
+
+username = admin
+password = super
